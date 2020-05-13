@@ -10,7 +10,11 @@ D-Spamer version 2
 * pkg install git и python если не установлен
 ## Linux
 apt-get install python или python3
+
 apt-get install git
+
 git clone https://github.com/defsec16/DSpamerV2.git
+
 cd DSpamerV2
+
 python DSpamerV2.py
